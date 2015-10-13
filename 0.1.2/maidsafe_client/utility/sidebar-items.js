@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["deserialise","utility function to deserialise a Decodable type"],["deserialise_parser","utility function to deserialise a ::data_parser::Parser"],["generate_random_pin","Generates a random PIN number"],["generate_random_string","Generates a random string for specified size"],["serialise","utility function to serialise an Encodable type"]]});

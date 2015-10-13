@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CryptoError","CryptoError - To be removed"],["MaidsafeError","Under Construction - Will undergo lot of modification in upcoming sprint"]],"mod":[["client","Self-Auth and Gateway Module"],["data_parser","Parse incoming data"],["utility","Common utility functions grouped together"]],"type":[["IoError","Representation of input/output error"]]});
